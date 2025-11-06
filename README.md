@@ -1,4 +1,4 @@
-# AI Recon Tool
+# Simple Recon Tool
 
 A comprehensive Python reconnaissance tool for security testing and information gathering. This tool performs port scanning, web scraping, and subdomain enumeration.
 
@@ -85,4 +85,5 @@ This tool is for authorized security testing only. Always ensure you have permis
 ## License
 
 This tool is provided as-is for educational and authorized security testing purposes.
+
 
